@@ -147,3 +147,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <b>© 2026 EquityLens Intelligence.</b><br/>
   Empowering the future of equitable healthcare through algorithmic accountability.
 </p>
+
+---
+
+## Case study
+
+The full write-up of EquityLens (problem, architecture, trade-offs and results) lives at **[kunjshah.in/projects/equitylens](https://kunjshah.in/projects/equitylens)**.
+
+Built by [Kunj Shah](https://kunjshah.in), AI engineer.
